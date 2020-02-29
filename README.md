@@ -1,2 +1,3 @@
 ## Requiements
-1. add digit font
+
+1. add digital font
